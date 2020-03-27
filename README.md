@@ -14,5 +14,5 @@ Open a command prompt / terminal and run the following commands:
 `kids.sln`
 
 #### How to Play?
-Each project,  like `variables` has a test project, like `variables-test`.  The goal is to implement code which passes all the tests.
+Each project,  like `basics/variables` has a test project, like `basics/variables-test`.  The goal is to implement code which passes all the tests.
 You can run all tests with _Ctrl+R, A_.  That means, hold _Ctrl_ and _R_ (think run tests) and then press _A_ (think 'All').   The tests will determine if you have implemented the code correctly.  Look for `//TODO` comments to know where to implement your code. Once you have passed all tests, move on to another project.
