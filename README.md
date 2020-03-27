@@ -13,5 +13,6 @@ Open a command prompt / terminal and run the following commands:
 `cd kids`  
 `kids.sln`
 
-#### Work and Testing
-You can run all tests with _Ctrl+R, A_.  That means, hold _Ctrl_ and _R_ (think run tests) and then press _A_ (think 'All'). Each project,  like `variables` has a test project, like `variables-test`.  Test projects will determine if you have implemented the code correctly.  Once you impelment the `//TODO` code and run the tests, they should pass and you can move on.
+#### How to Play?
+Each project,  like `variables` has a test project, like `variables-test`.  The goal is to implement code which passes all the tests.
+You can run all tests with _Ctrl+R, A_.  That means, hold _Ctrl_ and _R_ (think run tests) and then press _A_ (think 'All').   The tests will determine if you have implemented the code correctly.  Look for `//TODO` comments to know where to implement your code. Once you have passed all tests, move on to another project.
