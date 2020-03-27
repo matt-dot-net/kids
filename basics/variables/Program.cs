@@ -12,6 +12,9 @@ namespace variables
 
         public static int A_Plus_B(int a, int b)
         {
+            //TODO: implement c = a + b
+            //Remember ever line ends with a semi-colon;
+
             int c = 0; //c = ??
             
             return c;

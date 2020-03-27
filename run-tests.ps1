@@ -1,0 +1,1 @@
+dotnet vstest (Get-ChildItem -recurse -File *-test*.dll | ? { $_.FullName -notmatch "\\obj\\?" })
